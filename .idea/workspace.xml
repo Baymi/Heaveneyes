@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f336484-66b9-4356-9927-499e21b283d5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/app/parts/panel/panel.js" afterPath="$PROJECT_DIR$/src/app/parts/panel/panel.js" />
-      <change beforePath="$PROJECT_DIR$/src/app/parts/panel/style.css" afterPath="$PROJECT_DIR$/src/app/parts/panel/style.css" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,28 +17,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="panel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/parts/panel/panel.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="28" column="86" lean-forward="false" selection-start-line="28" selection-start-column="86" selection-end-line="28" selection-end-column="86" />
+            <state relative-caret-position="270">
+              <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
               <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/app/parts/panel/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-338">
-              <caret line="61" column="34" lean-forward="true" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
-              <folding>
-                <element signature="e#1651#1701#0" expanded="false" />
-                <element signature="e#2112#2162#0" expanded="false" />
-                <element signature="e#2573#2624#0" expanded="false" />
-                <element signature="e#3039#3089#0" expanded="false" />
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="Less File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -79,7 +64,6 @@
         <option value="$PROJECT_DIR$/src/parts/panel.js" />
         <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/app/App.css" />
-        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/app/parts/style.less" />
         <option value="$PROJECT_DIR$/src/app/parts/panel.js" />
         <option value="$PROJECT_DIR$/src/app/parts/style.css" />
@@ -88,6 +72,10 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/app/parts/panel/panel.js" />
         <option value="$PROJECT_DIR$/src/app/parts/panel/style.css" />
+        <option value="$PROJECT_DIR$/src/app/parts/service/serviceData.json" />
+        <option value="$PROJECT_DIR$/src/app/parts/service/style.css" />
+        <option value="$PROJECT_DIR$/src/app/parts/service/service.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
       </list>
     </option>
   </component>
@@ -103,12 +91,14 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="582" />
-    <option name="y" value="65" />
-    <option name="width" value="1259" />
-    <option name="height" value="943" />
+    <option name="x" value="757" />
+    <option name="y" value="104" />
+    <option name="width" value="952" />
+    <option name="height" value="916" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -124,6 +114,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,30 +141,23 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="parts" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="react-cesium-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-cesium-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="parts" type="462c0819:PsiDirectoryNode" />
-              <item name="panel" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gis/Cesium" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\cra\react-cesium-demo\src\app\parts\service\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Project\cra\react-cesium-demo\src\app\parts" />
       <recent name="E:\Project\cra\react-cesium-demo\src\app" />
@@ -208,17 +193,18 @@
       <workItem from="1525784353406" duration="50000" />
       <workItem from="1525784427458" duration="19000" />
       <workItem from="1525784471749" duration="10168000" />
+      <workItem from="1525952927389" duration="8767000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23366000" />
+    <option name="totallyTimeSpent" value="32370000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="582" y="65" width="1259" height="943" extended-state="0" />
+    <frame x="757" y="104" width="952" height="916" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20836686" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22538294" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -230,23 +216,12 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24433963" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,35 +235,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scripts/build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/antd/dist/antd.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1215">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/parts/style.less" />
     <entry file="file://$PROJECT_DIR$/src/app/parts/panel.js" />
     <entry file="file://$PROJECT_DIR$/src/app/parts/style.css" />
     <entry file="file://$PROJECT_DIR$/src/app/parts/panel/images/框子.png">
@@ -300,7 +246,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -350,7 +295,7 @@
         <state relative-caret-position="1080">
           <caret line="42" column="61" lean-forward="false" selection-start-line="42" selection-start-column="61" selection-end-line="42" selection-end-column="61" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -359,12 +304,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
           <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
-          <folding>
-            <element signature="e#1651#1701#0" expanded="false" />
-            <element signature="e#2112#2162#0" expanded="false" />
-            <element signature="e#2573#2624#0" expanded="false" />
-            <element signature="e#3039#3089#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -431,8 +371,6 @@
     <entry file="file://$PROJECT_DIR$/src/app/parts/style.less" />
     <entry file="file://$PROJECT_DIR$/src/app/parts/panel.js" />
     <entry file="file://$PROJECT_DIR$/src/app/parts/style.css" />
-    <entry file="file://$PROJECT_DIR$/src/index.js" />
-    <entry file="file://$PROJECT_DIR$/src/app/App.js" />
     <entry file="file://$PROJECT_DIR$/src/app/parts/panel/images/框子.png" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -446,29 +384,117 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/parts/panel/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="87" column="46" lean-forward="true" selection-start-line="87" selection-start-column="46" selection-end-line="87" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/parts/panel/panel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="28" column="86" lean-forward="false" selection-start-line="28" selection-start-column="86" selection-end-line="28" selection-end-column="86" />
+        <state relative-caret-position="379">
+          <caret line="41" column="30" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/parts/service/serviceData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/parts/service/images/窗口.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/app/parts/service/service.js</OriginalElement>
+          <nodes>
+            <node x="260.0" y="0.0">$PROJECT_DIR$/node_modules/antd/lib/index.d.ts#Col#741;E:/Project/cra/react-cesium-demo/node_modules/antd/lib/index.d.ts#Row#1754;</node>
+            <node x="450.0" y="175.0">$PROJECT_DIR$/node_modules/react/index.js</node>
+            <node x="0.0" y="150.0">$PROJECT_DIR$/node_modules/react/cjs/react.development.js#Component#45693;</node>
+            <node x="241.0" y="156.0">$PROJECT_DIR$/src/app/parts/service/service.js#Col#120;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#Component#15;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#React#7;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#Row#115;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#serviceResource#69;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#style.css#40;</node>
+            <node x="99.0" y="381.0">$PROJECT_DIR$/src/app/parts/service/serviceData.json</node>
+            <node x="382.0" y="365.0">$PROJECT_DIR$/src/app/parts/service/style.css</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="$PROJECT_DIR$/src/app/parts/service/service.js#Col#120;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#Component#15;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#React#7;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#Row#115;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#serviceResource#69;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#style.css#40;" target="$PROJECT_DIR$/node_modules/react/index.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/src/app/parts/service/service.js#Col#120;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#Component#15;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#React#7;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#Row#115;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#serviceResource#69;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#style.css#40;" target="$PROJECT_DIR$/node_modules/react/cjs/react.development.js#Component#45693;">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/src/app/parts/service/service.js#Col#120;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#Component#15;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#React#7;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#Row#115;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#serviceResource#69;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#style.css#40;" target="$PROJECT_DIR$/src/app/parts/service/serviceData.json">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/src/app/parts/service/service.js#Col#120;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#Component#15;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#React#7;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#Row#115;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#serviceResource#69;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#style.css#40;" target="$PROJECT_DIR$/node_modules/antd/lib/index.d.ts#Col#741;E:/Project/cra/react-cesium-demo/node_modules/antd/lib/index.d.ts#Row#1754;">
+              <point x="5.000061268127695" y="0.0" />
+              <point x="5.000061268127723" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/src/app/parts/service/service.js#Col#120;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#Component#15;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#React#7;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#Row#115;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#serviceResource#69;E:/Project/cra/react-cesium-demo/src/app/parts/service/service.js#style.css#40;" target="$PROJECT_DIR$/src/app/parts/service/style.css">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="51.5" y="87.0" />
+          <SelectedNodes>
+            <node>$PROJECT_DIR$/src/app/parts/service/style.css</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/parts/service/service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/parts/panel/style.css">
+    <entry file="file://$PROJECT_DIR$/src/app/parts/service/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-338">
-          <caret line="61" column="34" lean-forward="true" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
+        <state relative-caret-position="288">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
           <folding>
-            <element signature="e#1651#1701#0" expanded="false" />
-            <element signature="e#2112#2162#0" expanded="false" />
-            <element signature="e#2573#2624#0" expanded="false" />
-            <element signature="e#3039#3089#0" expanded="false" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,0 +1,34 @@
+{
+  "serviceData": [
+    {
+      "name": "服务资源1",
+      "rate": 2,
+      "status": 1
+    },
+    {
+      "name": "服务资源2",
+      "rate": 33,
+      "status": 2
+    },
+    {
+      "name": "服务资源3",
+      "rate": 11,
+      "status": 3
+    },
+    {
+      "name": "服务资源4",
+      "rate": 77,
+      "status": 4
+    },
+    {
+      "name": "服务资源5",
+      "rate": 12,
+      "status": 4
+    },
+    {
+      "name": "服务资源6",
+      "rate": 23,
+      "status": 2
+    }
+  ]
+}
