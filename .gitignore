@@ -7,7 +7,7 @@
 /coverage
 
 # production
-
+/.idea
 
 # misc
 .DS_Store

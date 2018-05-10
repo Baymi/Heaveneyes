@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './style.css';
-import serviceResource from './serviceData';
+//import serviceResource from './serviceData';
 import {Row, Col} from 'antd';
 
 class Service extends Component {
