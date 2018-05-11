@@ -1,13 +1,49 @@
-.serviceContainer {
+.c{
+    color: #fff;
     min-height: 100vh;
+    border: 4px solid #66ccee;
     background-color: #000c17;
-    border: 5px solid #66ccee;
+}
+.availableTitle {
+    font-size: 20px;
+    height: 80px;
+    border: 1px solid #66ccee;
+}
+
+.availableRow {
+    border: 1px solid #00a854;
+    height: 100%;
+    margin: 0 !important;
+}
+
+.useCol {
+    display: flex;
+    align-items: center;
+    /*. sStatus {
+        display: inline-block;
+        margin-right: 10px;
+    }*/
+}
+
+.startBtn {
+    border-radius: 16px;
+}
+
+.serviceContainer {
+
+    border: 1px solid #66ccee;
+}
+
+.outsideRow {
+    width: 100%;
+    margin: 0 !important;
 }
 
 .sPanel {
     color: #ffffff;
     width: 326px;
     height: 86px;
+    margin-top: 10px;
     background-image: url("./images/窗口.png");
 }
 
@@ -26,8 +62,14 @@
     align-items: center;
 }
 
-.spanRate {
-    font-size: large;
+.spanRate1 {
+    padding: 2px;
+    font-size: 16px;
+}
+
+.spanRate2 {
+    padding: 2px;
+    font-size: 20px;
     font-weight: bold;
     color: #05e7f2;
 }
@@ -38,7 +80,7 @@
     text-align: center;
 }
 
-.circle {
+.sStatus {
     width: 20px;
     height: 20px;
     background-color: #65fd00;
