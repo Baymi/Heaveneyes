@@ -1,0 +1,37 @@
+.proDiv {
+    position: relative;
+}
+
+.proDiv .proText {
+    z-index: 100;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100px;
+    height: 20px;
+    margin-top: -10px;
+    margin-left: -50px;
+    text-align: center;
+    color: #000c17;
+}
+
+.dataProgress {
+    margin: 20px;
+    border: 1px solid #65fd00;
+}
+
+.dataProgress .ant-progress {
+    margin: 5px 0;
+}
+
+.dataProgress .ant-progress-text {
+    color: #0088FF;
+}
+
+.dataProgress .ant-progress-inner {
+    height: 30px;
+}
+
+.dataProgress .ant-progress-bg {
+    height: 30px !important;
+}
