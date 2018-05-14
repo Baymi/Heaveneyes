@@ -1,0 +1,32 @@
+.outsideRow{
+    height: 100vh;
+    background-color: #000c17;
+    color: #05e7f2;
+}
+.fCol{
+    height: 100%;
+    border: 4px solid #22ee22;
+}
+.sCol{
+    height: 100%;
+    border: 4px solid #aa0000;
+}
+.icDiv{
+    margin: 20px 50px;
+    border: 1px solid #65ec00;
+}
+.tagRow{
+    padding: 20px;
+    border: 1px solid #aa0000;
+}
+.sCol{
+    border: 1px solid #722ed1;
+    padding: 10px;
+}
+.sTag{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
